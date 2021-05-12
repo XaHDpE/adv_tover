@@ -90,4 +90,8 @@
         <Types>National holiday</Types>
         <Country>United States</Country>
     </Calendar>
+    <NewCalendar>
+        <Date1>40544</Date1>
+        <Country1>US</Country1>
+    </NewCalendar>
 </DocumentElement>
