@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DocumentElement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Calendar>
+        <Date>40544</Date>
+        <Name>New Year's Day</Name>
+        <Year>2011</Year>
+        <Month>1</Month>
+        <Day>1</Day>
+        <Weekday>Sat</Weekday>
+        <Types>National holiday</Types>
+        <Country>United States</Country>
+    </Calendar>
+    <Calendar>
+        <Date>40560</Date>
+        <Name>Martin Luther King Day</Name>
+        <Year>2011</Year>
+        <Month>1</Month>
+        <Day>17</Day>
+        <Weekday>Mon</Weekday>
+        <Types>National holiday</Types>
+        <Country>United States</Country>
+    </Calendar>
+    <Calendar>
+        <Date>40588</Date>
+        <Name>Valentine's Day</Name>
+        <Year>2011</Year>
+        <Month>2</Month>
+        <Day>14</Day>
+        <Weekday>Mon</Weekday>
+        <Types>Observance</Types>
+        <Country>United States</Country>
+    </Calendar>
+    <Calendar>
+        <Date>40595</Date>
+        <Name>Presidents' Day</Name>
+        <Year>2011</Year>
+        <Month>2</Month>
+        <Day>21</Day>
+        <Weekday>Mon</Weekday>
+        <Types>National holiday</Types>
+        <Country>United States</Country>
+    </Calendar>
+    <Calendar>
+        <Date>40657</Date>
+        <Name>Easter Sunday</Name>
+        <Year>2011</Year>
+        <Month>4</Month>
+        <Day>24</Day>
+        <Weekday>Sun</Weekday>
+        <Types>Observance Christian</Types>
+        <Country>United States</Country>
+    </Calendar>
+    <Calendar>
+        <Date>40671</Date>
+        <Name>Mother's Day</Name>
+        <Year>2011</Year>
+        <Month>5</Month>
+        <Day>8</Day>
+        <Weekday>Sun</Weekday>
+        <Types>Observance</Types>
+        <Country>United States</Country>
+    </Calendar>
+    <Calendar>
+        <Date>40693</Date>
+        <Name>Memorial Day</Name>
+        <Year>2011</Year>
+        <Month>5</Month>
+        <Day>30</Day>
+        <Weekday>Mon</Weekday>
+        <Types>National holiday</Types>
+        <Country>United States</Country>
+    </Calendar>
+    <Calendar>
+        <Date>40713</Date>
+        <Name>Father's Day</Name>
+        <Year>2011</Year>
+        <Month>6</Month>
+        <Day>19</Day>
+        <Weekday>Sun</Weekday>
+        <Types>Observance</Types>
+        <Country>United States</Country>
+    </Calendar>
+    <Calendar>
+        <Date>40728</Date>
+        <Name>Independence Day</Name>
+        <Year>2011</Year>
+        <Month>7</Month>
+        <Day>4</Day>
+        <Weekday>Mon</Weekday>
+        <Types>National holiday</Types>
+        <Country>United States</Country>
+    </Calendar>
+</DocumentElement>
